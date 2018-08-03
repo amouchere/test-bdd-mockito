@@ -1,0 +1,16 @@
+target
+.settings
+.project
+.classpath
+.springBeans
+*.iml
+*/target
+*/.settings
+*/.project
+*/.classpath
+*/.idea
+.idea
+
+release.properties
+rebel.xml
+.rebel.xml.bak
